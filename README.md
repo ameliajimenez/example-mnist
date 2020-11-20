@@ -16,5 +16,5 @@ $ sbatch example_slurm.sh
 
 ### 2. Monitoring 
 ```bash
-$ squeue -u ajimenez
+$ squ
 ```
